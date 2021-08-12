@@ -1,6 +1,6 @@
 {
   "name": "k-emails",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "전국에 중/고등/대학교 교육 이메일을 구분합니다.",
   "main": "dist",
   "author": "wonderlandpark <me@wonder.im>",
