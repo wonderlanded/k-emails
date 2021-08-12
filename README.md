@@ -39,3 +39,7 @@ kemails.findName('webmaster@korea.kr', 'government').then(console.log)
 특히 본인의 학교를 추가해주세요!
 
 [기여 가이드](./CONTRIBUTING.md)
+
+## 기타
+
+- 기존 도메인 데이터셋은 [`JetBrains/swot`](https://github.com/JetBrains/swot) 일부를 가져와 사용하였습니다
