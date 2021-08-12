@@ -1,0 +1,19 @@
+{
+  "name": "k-emails",
+  "version": "0.1.0",
+  "main": "dist",
+  "author": "wonderlandpark <me@wonder.im>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderlanded/k-emails.git"
+  },
+  "homepage": "https://github.com/wonderlanded/k-emails#readme",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "typescript": "^4.3.5"
+  }
+}
