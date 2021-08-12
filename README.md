@@ -2,7 +2,12 @@
 
 대한민국 이메일을 분류합니다.
 특히, 전국에 중/고등/대 학교 이메일을 구분합니다.
-
+## 설치
+```sh
+npm install k-emails
+# or
+yarn add k-emails
+```
 ## 예시
 
 ```js
